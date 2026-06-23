@@ -103,7 +103,7 @@ Built with a sleek futuristic design, smooth animations, glassmorphism effects, 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/nexura.git
+git clone https://github.com/Kiik913/Nexura-looks.git
 ```
 
 2. Open the project folder
