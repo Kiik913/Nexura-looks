@@ -160,6 +160,13 @@ nexura/
 
 This project is available under the MIT License.
 
+## 🌐 Demo
+
+You can try Nexura OS right now by opening the `Nexura OS.html` file in your browser, or by hosting it on any static server (GitHub Pages, Netlify, etc.).Copy it and paste to website  url
+
+file:///C:/Users/HP/Nexura.html
+---
+
 ## Author
 
 Created by Kavyant Kumar.
